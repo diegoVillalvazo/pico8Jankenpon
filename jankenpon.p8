@@ -2,7 +2,7 @@ pico-8 cartridge // http://www.pico-8.com
 version 29
 __lua__
 --jankenpon--
---by diego villalvazo--
+--by xochitl villalvazo izquierdo--
 
 music(0)
 
